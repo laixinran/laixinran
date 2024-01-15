@@ -9,4 +9,6 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js badge">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB badge">
+    <img src="https://img.shields.io/badge/Solidity-808080?logo=Solidity" alt="Solidity">
+ 
 </p>
