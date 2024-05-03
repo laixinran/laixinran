@@ -2,6 +2,8 @@
 
 <p align="left">
   🤖 Full-Stack Web3 Dev | 🏄 Gap Year | 🍻 Art + CS + Crypto <br/>
+  - i build project on the boundaries of crypto and feminism: <a href="https://crossedout.xyz" target="_blank">crossedout.xyz</a> <br/>
+  - i research on the possibilities of crypto for empowering feminism: <a href="https://www.researchgate.net/publication/371406940_How_Decentralized_Blockchain_and_the_Web_30_It_Enabled_Can_Better_Empower_Feminist_Movements_by_Deconstructing_Traditional_Power_Structures--Iteration_of_the_World_Wide_Web_and_Increased_Gender_Equali" target="_blank">How Decentralized Blockchain and the Web 3.0 It Enabled Can Better Empower Feminist Movements</a>
   <br/>
 </p>
 <p align="left">
