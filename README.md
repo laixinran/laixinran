@@ -1,7 +1,7 @@
 # GM/N👋!  I'm Xinran/antimacy 
 
 <p align="left">
-  🤖 Full-Stack Web3 Dev | 🏄 Gap Year | 🍻 Art + CS + Crypto <br/>
+  🤖 Full-Stack Web3 Dev | 🍻 Art + CS + Crypto <br/>
 </p>
 <p align="left">
   Languages & Tools: <br/>
