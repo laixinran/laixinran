@@ -1,4 +1,4 @@
-# GM/N👋!  I'm Xinran/antimacy 
+# GM/N👋!  I'm Penelope
 
 <p align="left">
   🤖 🍻 Art + CS + Crypto <br/>
