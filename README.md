@@ -1,7 +1,7 @@
 # GM/N👋!  I'm Penelope
 
 <p align="left">
-  🤖 🍻 Art + CS + Crypto <br/>
+  🤖 🍻 Master of Computer and Information Technology @ UPenn <br/>
 </p>
 <p align="left">
   Languages & Tools: <br/>
