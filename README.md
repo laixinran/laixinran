@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB badge">
     <img src="https://img.shields.io/badge/Solidity-808080?style=flat-square&logo=Solidity" alt="Solidity">
     <img src="https://img.shields.io/badge/-git-black?style=flat-square&logo=Git" alt="Git">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java badge">
+
 
   
 </p>
