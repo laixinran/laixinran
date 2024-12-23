@@ -1,7 +1,7 @@
 # GM/N👋!  I'm Penelope
 
 <p align="left">
-  🤖 🍻 Master of Computer and Information Technology @ UPenn <br/>
+  🤖 Master of Computer and Information Technology @ UPenn <br/>
   ✅ Experience in Full-stack software development, AI Engineering and Smart Contract Development <br/>
 </p>
 <p align="left">
