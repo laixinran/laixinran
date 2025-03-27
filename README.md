@@ -2,7 +2,7 @@
 
 <p align="left">
   🤖 CS @ UPenn | Art @ Duke <br/>
-  ✅ Applied ML / NLP / Smart Contract <br/>
+  ✅ Applied ML / NLP / AI as Public Infra / Smart Contract <br/>
 </p>
 <p align="left">
   Languages & Tools: <br/>
